@@ -1,4 +1,4 @@
-# 🙂‍↕️ World Happiness Analysis - Understanding the Drivers of Wellbeing
+# ☺️ World Happiness Analysis - Understanding the Drivers of Wellbeing
 
 As someone who has always had the desire to live in a foreign country, I aimed to explore global happiness data to analyze which social, econimc, and health-related factors contribute most to a nation's happiness score.
 So, this data project has certainly been one of my favorites thus far!
